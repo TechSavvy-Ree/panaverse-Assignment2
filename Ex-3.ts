@@ -7,10 +7,11 @@ for (let number of tempNumber)
  if (number>0) {
     console.log("Given number is positive");
     }
- else if(number<0){
+ else if(number<0) {
         console.log("Given number is nagative");
     }
- else{console.log("Given number is zero");
+ else{
+   console.log("Given number is zero");
     }
     
 }
